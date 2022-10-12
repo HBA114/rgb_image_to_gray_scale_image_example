@@ -23,7 +23,7 @@ source venv/Scripts/activate
 pip install -r requierements.txt
 ```
 
-- Now you can run with:
+- Now you can run project with:
 ```shell
 python src/main.py
 ```
